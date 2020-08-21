@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primera App</string>
+    <string name="email">Correo</string>
+    <string name="passwords">Contraseña</string>
+    <string name="login">Acceder</string>
+    <string name="go_to_register">Registrate</string>
+
+    <string name="requiered_email">Correo requerida</string>
+    <string name="requiered_password">Contraseña requerida</string>
+    <string name="requiered_name">Nombre requerido</string>
+
+    <string name="error_match">No coincide</string>
+    <string name="logged">Sesión Iniciada</string>
+    <string name="registered">Registrado</string>
+
+    <string name="name">nombre</string>
+    <string name="register">registrate</string>
+    <string name="go_to_login">ir a login</string>
+    <string name="loggout">Cerrar Sesión</string>
+</resources>
