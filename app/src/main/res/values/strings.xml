@@ -18,5 +18,11 @@
     <string name="go_to_login">go to login</string>
     <string name="loggout">Logout</string>
 
+    <string name="task_name">Task name</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="want_to_delete">Do you want to remove item?</string>
+    <string name="yes">yes</string>
+    <string name="clean_list">Clean List</string>
 
 </resources>

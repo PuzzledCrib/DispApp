@@ -4,7 +4,7 @@
     <string name="email">Correo</string>
     <string name="passwords">Contraseña</string>
     <string name="login">Acceder</string>
-    <string name="go_to_register">Registrate</string>
+    <string name="go_to_register">Regístrate</string>
 
     <string name="requiered_email">Correo requerida</string>
     <string name="requiered_password">Contraseña requerida</string>
@@ -14,8 +14,17 @@
     <string name="logged">Sesión Iniciada</string>
     <string name="registered">Registrado</string>
 
-    <string name="name">nombre</string>
-    <string name="register">registrate</string>
-    <string name="go_to_login">ir a login</string>
+    <string name="name">Nombre</string>
+    <string name="register">Regístrate</string>
+    <string name="go_to_login">Ir a login</string>
     <string name="loggout">Cerrar Sesión</string>
+
+    <string name="task_name">Nombre de la tarea</string>
+    <string name="add">Agregar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="want_to_delete">¿Desea eliminar el objeto?</string>
+    <string name="yes">Si</string>
+    <string name="clean_list">Eliminar Lista</string>
+
+
 </resources>

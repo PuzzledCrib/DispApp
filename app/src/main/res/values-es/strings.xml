@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="want_to_delete">Do you want to remove item?</string>
+    <string name="clean_list">Eliminar Lista</string>
+</resources>

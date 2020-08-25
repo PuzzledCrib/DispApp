@@ -6,4 +6,10 @@
         android:title="@string/loggout"
         app:showAsAction="never"
         />
+
+    <item
+        android:id="@+id/clean_list"
+        android:title="@string/clean_list"
+        app:showAsAction="never"
+        />
 </menu>

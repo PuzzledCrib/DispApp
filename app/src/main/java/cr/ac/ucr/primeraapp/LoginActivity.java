@@ -59,7 +59,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
             //TODO: Enviarlo al main activiy
             // TODO: almacenar en el storage el usuario logueado
 
-            AppPreferences.getInstance(this).put(AppPreferences.keys.IS_LOGGED_IN, true);
+            AppPreferences.getInstance(this).put(AppPreferences.Keys.IS_LOGGED_IN, true);
 
             Toast.makeText(this, getString(R.string.logged), Toast.LENGTH_SHORT).show();
 
